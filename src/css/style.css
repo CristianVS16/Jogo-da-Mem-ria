@@ -1,0 +1,28 @@
+body{
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #b92525;
+}
+
+.container{
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 26.875rem;
+    height: 26.875rem;
+    border: 1px solid black;
+
+
+
+}
+h2{
+    color:#ffffff;
+    letter-spacing: 0.1rem;
+    font-size: 1.625rem;
+    align-items: center;
+    
+
+}
